@@ -1,0 +1,10 @@
+{
+	"Back to top link": {
+		"scope": "markdown",
+		"prefix": "back to top",
+		"body": [
+			"[↥ Back To Top](#index)"
+		],
+		"description": "Adds a back to top inner-link"
+	}
+}
