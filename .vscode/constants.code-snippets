@@ -6,5 +6,13 @@
 			"[↥ Back To Top](#index)"
 		],
 		"description": "Adds a back to top inner-link"
+	},
+	"Omit in the doc": {
+		"scope": "markdown",
+		"prefix": "omit in toc",
+		"body": [
+			"<!-- omit in toc -->"
+		],
+		"description": "Adds a omit in toc comment"
 	}
 }

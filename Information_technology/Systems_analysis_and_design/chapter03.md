@@ -1,4 +1,6 @@
-# Overview <!-- omit in toc -->
+<!-- omit in toc -->
+# Overview
+
 Chapter 3 is the final chapter in the systems planning phase of the SDLC.
 This chapter describes project management and explains how to plan, schedule,
 monitor, and report on IT projects.
@@ -9,7 +11,7 @@ always give it much thought.
 To manage a large-scale IT project, specific tools and techniques are needed.
 
 A project manager is also needed, someone who is responsible for
-overseeing all relevant tasks. 
+overseeing all relevant tasks.
 
 > Project management for IT professionals includes planning,
 > scheduling, monitoring and controlling, and reporting on information system development.
@@ -21,7 +23,9 @@ With this information, Gantt charts or PERT/CPM charts can be used to schedule
 and manage the work.
 
 ---
+
 ## Table Of Contents <!-- omit in toc -->
+
 - [3.1 Overview of Project Management](#31-overview-of-project-management)
   - [3.1.1 What Shapes a Project?](#311-what-shapes-a-project)
   - [3.1.2 What Is a Project Triangle?](#312-what-is-a-project-triangle)
@@ -30,6 +34,7 @@ and manage the work.
   - [3.2.1 Gantt Charts](#321-gantt-charts)
   - [3.2.2 PERT/CPM Charts](#322-pertcpm-charts)
   - [3.2.3 Identifying Tasks in a Work Breakdown Structure](#323-identifying-tasks-in-a-work-breakdown-structure)
+- [**(B + 4P + W)/6**](#b--4p--w6)
   - [3.2.4 Factors Affecting Duration](#324-factors-affecting-duration)
 - [3.3 Task Patterns](#33-task-patterns)
   - [3.3.1 Using Task Boxes to Create a Model](#331-using-task-boxes-to-create-a-model)
@@ -47,6 +52,7 @@ and manage the work.
   - [3.9.2 Budget Issues](#392-budget-issues)
 
 ## 3.1 Overview of Project Management
+
 ### 3.1.1 What Shapes a Project?
 
 A successful project must be completed on time, be within budget, and deliver
@@ -193,13 +199,13 @@ The project manager first makes three time estimates for each task:
 - An optimistic, or best-case estimate (B)
 - A probable-case estimate (P)
 - A pessimistic, or worst-case estimate (W)
-  
+
 The manager then assigns a weight, which is an importance value, to each estimate.
 The weight can vary, but a common approach is to use a ratio of B = 1, P = 4, and W = 1.
 
 The expected task duration is calculated as follows:
 
-**(B + 4P + W)/6**
+## **(B + 4P + W)/6**
 
 For example, a project manager might estimate that a file-conversion task could be
 completed in as few as 20 days or could take as many as 34 days, but most likely will
@@ -250,9 +256,7 @@ Each rectangular box, called a task box, has five sections, including:
 does not have to be unique in the project.
 - Task ID: The task ID can be a number or code that provides unique
 identification.
-- Task Duration: The duration is the amount of time it will take to
-complete a task, which is not necessarily the same as the elapsed time.
-> All tasks must use the same time units.
+- Task Duration: The duration is the amount of time it will take to complete a task, which is not necessarily the same as the elapsed time. *All tasks must use the same time units.*
 - Start Day/Date
 - Finish Day/Date
 
@@ -267,7 +271,7 @@ A project is based on a pattern of tasks. In a large project, the overall patter
 would be quite complex, but it can be broken down into three basic types of patterns:
 
 - dependent tasks
-- multiple successor tasks 
+- multiple successor tasks
 - multiple predecessor tasks
 
 When several tasks can start at the same time, each is called a concurrent task.
@@ -429,4 +433,3 @@ problems.
 
 - Human resource issues, including turnover, inadequate training, and
 motivation.
-

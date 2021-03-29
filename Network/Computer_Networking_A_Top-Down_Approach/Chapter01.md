@@ -45,7 +45,7 @@ End systems, packet switches, and other pieces of the Internet run **protocols**
 
 The **Transmission Control Protocol** (TCP) and the **Internet Protocol** (IP) are two of the most important protocols in the Internet. The IP protocol specifies the format of the packets that are sent and received among routers and end systems. *The Internet’s principal protocols are collectively known as TCP/IP.*
 
-Given the importance of protocols to the Internet, it’s important that everyone agree on what each and every protocol does, so that people can create systems and products that interoperat. This is where standards come into play. Internet standards are developed by the Internet Engineering Task Force (IETF)[IETF 2012].
+Given the importance of protocols to the Internet, it’s important that everyone agree on what each and every protocol does, so that people can create systems and products that interoperat. This is where standards come into play. Internet standards are developed by the Internet Engineering Task Force (IETF) [IETF 2012].
 
 The IETF standards documents are called requests for comments (RFCs). RFCs started out as general requests for comments (hence the name) to resolve network and protocol design problems that faced the precursor to the Internet [Allman 2011].
 

@@ -1,14 +1,19 @@
-# Overview <!-- omit in toc -->
+<!-- omit in toc -->
+# Overview
+
 Chapter 5 is the second of four chapters in the systems analysis phase of the SDLC.
 
-This chapter discusses data and process modeling techniques that analysts use to show 
+This chapter discusses data and process modeling techniques that analysts use to show
 how the system transforms data into useful information. Data and process modeling involves
 three main items: data flow diagrams, a data dictionary, and process descriptions.
 The deliverable, or end product, of data and process modeling is a logical model that will support business
 operations and meet user needs.
 
 ---
-## Table Of Contents <!-- omit in toc -->
+
+<!-- omit in toc -->
+## Table Of Contents
+
 - [5.1 Logical Versus Physical Models](#51-logical-versus-physical-models)
 - [5.2 Data Flow Diagrams](#52-data-flow-diagrams)
 - [5.3 Data Flow Diagram Symbols](#53-data-flow-diagram-symbols)
@@ -115,8 +120,5 @@ more processes need to use the data at a later time.
 > A DFD does not show the detailed contents of a data store the specific structure and data elements are
 > defined in the data dictionary, which is discussed later in this chapter.
 
-In a DFD, the Gane and Sarson symbol for a *data store* is a flat rectangle that is **open** on the right side and 
+In a DFD, the Gane and Sarson symbol for a *data store* is a flat rectangle that is **open** on the right side and
 **closed** on the left side. A data store must be connected to a process with a data flow.
-
-
-

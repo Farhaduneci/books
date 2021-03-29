@@ -2,11 +2,11 @@
 
 ## Details
 
-| Name | Author | ISBN-13 | Publisher |
-| :--- | :--- | :--- | :--- |
-|  Systems Analysis and Design | [Scott Tilley](https://www.amazon.com/Scott-Tilley/e/B009FKKW8G/ref=dp_byline_cont_pop_book_1) | 978-0357117811 | Cengage Learning; 12th Edition |
+| Name                        | Author       | ISBN-13        | Publisher        |
+| :-------------------------- | :----------- | :------------- | :--------------- |
+| Systems Analysis and Design | Scott Tilley | 978-0357117811 | Cengage Learning |
 
-#### About the Author
+### About the Author
 
  Scott Tilley is an emeritus professor at the Florida Institute of Technology. He is also president and founder of the Center for Technology & Society and president and co-founder of Big Data Florida as well as president of INCOSE Space Coast and a SCWG Fellow. He previously taught at the University of California, Riverside He was also a research scientist at Carnegie Mellon university's Software Engineering Institute and a software developer at IBM. Dr. Tilley holds a Ph.D. in computer science from the University of Victoria.
 
