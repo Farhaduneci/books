@@ -9,7 +9,7 @@ We call ourselves Homo sapiens—man the wise—because our intelligence is so i
 
 AI is one of the newest fields in science and engineering. Work started in earnest soon after World War II, and the name itself was coined in 1956. Along with molecular biology. AI currently encompasses a huge variety of subfields, ranging from the general (learning and perception) to the specific, such as playing chess, proving mathematical theorems, writing poetry, driving a car on a crowded street, and diagnosing diseases.
 
- **AI is relevant to any *intellectual* task; it is truly a universal field.**
+**AI is relevant to any *intellectual* task; it is truly a universal field.**
 
 <!-- omit in toc -->
 ## Index
@@ -61,6 +61,8 @@ The 2 first definitions in each section measure success in terms of **fidelity t
 
 Historically, all four approaches to AI have been followed, each by different people with different methods. A human-centered approach must be in part an empirical science, involving observations and hypotheses about human behavior. A rationalist approach involves a combination of mathematics and engineering. *The various group have both disparaged and helped each other.*
 
+[↥ Back To Top](#index)
+
 ### 1.1.1 Acting humanly: The Turing Test approach
 
 The Turing Test, proposed by Alan Turing (1950), was designed to provide a satisfactory operational definition of intelligence. A computer passes the test if a human interrogator, after posing some written questions, cannot tell whether the written responses come from a person or from a computer.
@@ -85,6 +87,8 @@ Yet AI researchers have devoted little effort to passing the Turing Test, believ
 
 The quest for “artificial flight” succeeded when the Wright brothers and others stopped imitating birds and started using wind tunnels and learning about aerodynamics.
 
+[↥ Back To Top](#index)
+
 ### 1.1.2 Thinking humanly: The cognitive modeling approach
 
 If we are going to say that a given program thinks like a human, we must have some way of determining how humans think. We need to get inside the actual workings of human minds.
@@ -101,6 +105,8 @@ For example, Allen Newell and Herbert Simon, who developed GPS, the “General P
 
 The interdisciplinary field of cognitive science brings together computer models from AI and experimental techniques from psychology to construct precise and testable theories of the human mind.
 
+[↥ Back To Top](#index)
+
 ### 1.1.3 Thinking rationally: The “laws of thought” approach
 
 The Greek philosopher Aristotle was one of the first to attempt to codify “right thinking,” that is, irrefutable reasoning processes. His syllogisms provided patterns for argument structures that always yielded correct conclusions when given correct premises—for example, “Socrates is a man; all men are mortal; therefore, Socrates is mortal.” These laws of thought were supposed to govern the operation of the mind; their study initiated the field called logic.
@@ -110,6 +116,8 @@ Logicians in the 19th century developed a precise notation for statements about 
 The so-called **logicist** tradition within artificial intelligence hopes to build on such programs to create intelligent systems.
 
 There are two main obstacles to this approach. First, it is not easy to take informal knowledge and state it in the formal terms required by logical notation, particularly when the knowledge is less than 100% certain. Second, there is a big difference between solving a problem “in principle” and solving it in practice. Although both of these obstacles apply to any attempt to build computational reasoning systems, they appeared first in the logicist tradition.
+
+[↥ Back To Top](#index)
 
 ### 1.1.4 Acting rationally: The rational agent approach
 
@@ -129,8 +137,8 @@ The standard of rationality is mathematically well defined and completely genera
 
 One important point to keep in mind: We will see before too long that achieving perfect rationality—always doing the right thing—is not feasible in complicated environments.
 
- The computational demands are just too high. For most of the book, however, we will adopt the working hypothesis that perfect rationality is a good starting point for analysis. It simplifies the problem and provides the appropriate setting for most of the foundational material in the field. Chapters 5 and 17 deal explicitly with the issue of limited rationality—acting appropriately when there is not enough time to do all the computations one might like.
+The computational demands are just too high. For most of the book, however, we will adopt the working hypothesis that perfect rationality is a good starting point for analysis. It simplifies the problem and provides the appropriate setting for most of the foundational material in the field. Chapters 5 and 17 deal explicitly with the issue of limited rationality—acting appropriately when there is not enough time to do all the computations one might like.
+
+[↥ Back To Top](#index)
 
 ## 1.2 The foundations of artificial intelligence
-
-
